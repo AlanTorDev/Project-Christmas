@@ -1,2 +1,2 @@
 # Project-Christmas
-Christmas Tree with Animation
+Christmas Tree with Animations
